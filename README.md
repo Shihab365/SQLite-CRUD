@@ -1,4 +1,4 @@
-# SQLite CRUP
+# SQLite CRUD
 
 Android SQLite CRUD Operation.
 --Data Insert  
