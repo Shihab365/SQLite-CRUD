@@ -1,6 +1,6 @@
 # SQLite CRUD
 
-Android SQLite CRUD Operation.
+Android SQLite CRUD Operation.  
 --Data Insert  
 --Data Update  
 --Data Delete  
